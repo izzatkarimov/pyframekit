@@ -1,5 +1,7 @@
 # PyFrameKit
 
+![Image](https://github.com/user-attachments/assets/4f346d16-b4a2-468b-83c4-2a7326c0b91e)
+
 ![purpose](https://img.shields.io/badge/purpose-learning-green)
 ![PyPI - Version](https://img.shields.io/pypi/v/pyframekit)
 
