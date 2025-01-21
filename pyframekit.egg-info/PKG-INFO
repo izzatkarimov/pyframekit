@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pyframekit
-Version: 0.1.2
+Version: 0.2.0
 Summary: Python Web Framework built for learning purposes.
 Home-page: https://github.com/izzatkarimov/pyframekit
 Author: Izzat Karimov
@@ -8,6 +8,8 @@ Author-email: izzatcodes@gmail.com
 License: MIT
 Description: 
         # PyFrameKit
+        
+        ![Image](https://github.com/user-attachments/assets/4f346d16-b4a2-468b-83c4-2a7326c0b91e)
         
         ![purpose](https://img.shields.io/badge/purpose-learning-green)
         ![PyPI - Version](https://img.shields.io/pypi/v/pyframekit)
